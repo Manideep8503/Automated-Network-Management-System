@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Network Request">111756e783ad0f14520f1f65eeaad36b</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-24 10:56:24</sys_created_on>
+        <sys_id>f399562f83ad0f14520f1f65eeaad3a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Network Request</sys_name>
+        <sys_package display_value=" Automated Network Request Management" source="x_1958906_automa_0">009a4a6f832d0f14520f1f65eeaad364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Automated Network Request Management">009a4a6f832d0f14520f1f65eeaad364</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_f399562f83ad0f14520f1f65eeaad3a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-24 10:56:24</sys_updated_on>
+    </sc_cat_item_catalog>
+</record_update>
