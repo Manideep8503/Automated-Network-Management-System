@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Network Task</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Network Task</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">60024c62486132108bb2a3a8cef797a4</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-06-25 12:36:40</sys_created_on>
+        <sys_id>522a73778369cf14520f1f65eeaad354</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Network Task</sys_name>
+        <sys_package display_value=" Automated Network Request Management" source="x_1958906_automa_0">009a4a6f832d0f14520f1f65eeaad364</sys_package>
+        <sys_policy/>
+        <sys_scope display_value=" Automated Network Request Management">009a4a6f832d0f14520f1f65eeaad364</sys_scope>
+        <sys_update_name>sys_wizard_answer_522a73778369cf14520f1f65eeaad354</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-06-25 12:36:40</sys_updated_on>
+        <table/>
+        <target_url>x_1958906_automa_0_network_task.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

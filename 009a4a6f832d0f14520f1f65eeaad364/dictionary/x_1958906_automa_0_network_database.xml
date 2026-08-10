@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d7ea86af832d0f14520f1f65eeaad39d" label="Network Database" max_length="40" name="x_1958906_automa_0_network_database" type="collection">
+        <element label="Assignment Group" max_length="32" name="assignment_group" reference="sys_user_group" type="reference"/>
+        <element label="Request Number" max_length="40" name="request_number" type="string"/>
+        <element label="Customer Document" max_length="40" name="customer_document" type="string"/>
+        <element label="Date of Enquiry" max_length="255" name="date_of_enquiry" type="glide_date"/>
+        <element label="Device Details" max_length="40" name="device_details" type="string"/>
+        <element label="Requested For" max_length="40" name="requested_for" type="string"/>
+        <element label="Work Status" max_length="40" name="work_status" type="string"/>
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Customer Address" max_length="40" name="customer_address" type="string"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="assignment_group"/>
+        </index>
+    </element>
+</database>

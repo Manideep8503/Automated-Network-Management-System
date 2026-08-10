@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="cff9bb378369cf14520f1f65eeaad36e" extends="task" label="Network Task" max_length="40" name="x_1958906_automa_0_network_task" type="collection">
+        <element label="Business Justification" max_length="40" name="business_justification" type="string"/>
+        <element label="Device Name" max_length="40" name="device_name" type="string"/>
+        <element label="Completion Notes" max_length="40" name="completion_notes" type="string"/>
+        <element label="Parent Network Request" max_length="32" name="parent_network_request" reference="x_1958906_automa_0_network_database" type="reference"/>
+        <element choice="1" label="Request type" max_length="40" name="request_type" type="choice">
+            <choice/>
+        </element>
+        <element choice="1" label="Access level" max_length="40" name="access_level" type="choice">
+            <choice/>
+        </element>
+    </element>
+</database>
